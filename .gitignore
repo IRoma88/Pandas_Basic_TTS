@@ -1,0 +1,26 @@
+# Python Bytecode files
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual Environments
+venv/
+env/
+ENV/
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+
+# Logs
+*.log
+
+# Dataset Files (si no quieres subir los datasets a git)
+*.csv
+
+# Configuración de IDEs
+.vscode/
+.idea/
+
+# Archivos de sistema
+.DS_Store
+Thumbs.db
